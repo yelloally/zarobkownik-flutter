@@ -56,7 +56,7 @@ class _TitleWidgetState extends State<TitleWidget>
             child: const FittedBox(
               fit: BoxFit.fitWidth,
               child: Text(
-                'Kalkulator zarobków',
+                'Zarobkownik',
                 style: TextStyle(
                   color: Colors.black,
                   fontStyle: FontStyle.italic,

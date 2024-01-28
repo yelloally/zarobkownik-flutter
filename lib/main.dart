@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
         Locale('en'),
         Locale('pl'),
       ],
-      title: 'Kalkulator zarobków',
+      title: 'Zarobkownik',
       theme: ThemeData.light(
         useMaterial3: true,
       ),
